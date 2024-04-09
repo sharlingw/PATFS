@@ -4,9 +4,11 @@ This repository contains the code for the "Pose-Aware 3D Facial Animation Synthe
 
 
 ## Test
-> **Note** : Requirements
-> 
-> Before you start using our model, you need to install the requirements. To do so, we advise you to create a virtual environment. Then run `pip install -r requirements.txt`.
+The environment we used was python 3.8, a 3090 GPU, and Windows OS.
+
+**Note** : Requirements
+
+Before you start using our model, you need to install the requirements. To do so, we advise you to create a virtual environment. Then run `pip install -r requirements.txt`. It is worth noting that you will need to install [pytorch3d](https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md) manually.
 
 Next, you will need to download some pre-trained models and pre-processing files at [here](). The file directories in the web drive and the local file directories are corresponding. Please download the files in **checkpoints**, **ds_graph** and **template** folders from the web drive and put them into the corresponding local folders respectively.
 
