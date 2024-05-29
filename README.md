@@ -10,7 +10,7 @@ The environment we used was python 3.8, a 3090 GPU, and Windows OS.
 
 Before you start using our model, you need to install the requirements. To do so, we advise you to create a virtual environment. Then run `pip install -r requirements.txt`. It is worth noting that you will need to install [pytorch3d](https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md) manually.
 
-Next, you will need to download some pre-trained models and pre-processing files at [here](). The file directories in the web drive and the local file directories are corresponding. Please download the files in **checkpoints**, **ds_graph** and **template** folders from the web drive and put them into the corresponding local folders respectively.
+Next, you will need to download some pre-trained models and pre-processing files at [here](https://drive.google.com/drive/folders/1EtNjsganyOe2weHamchXjCb7i30_Ojmr?usp=sharing, https://drive.google.com/drive/folders/1pPi-2mZU4F555p9DYYuflck3yg7yOz7C?usp=sharing, https://drive.google.com/drive/folders/1rfjo358Sj-iBuy_kgj34vA9mB7PEMVq7?usp=sharing). The file directories in the web drive and the local file directories are corresponding. Please download the files in **checkpoints**, **ds_graph** and **template** folders from the web drive and put them into the corresponding local folders respectively.
 
 To try our model trained on VOCASET, you can run the following:
 ```shell
