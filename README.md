@@ -1,6 +1,7 @@
 # Pose-Aware 3D Talking Face Synthesis using Geometry-guided Audio-Vertices Attention
 
 This repository contains the code for the "Pose-Aware 3D Talking Face Synthesis using Geometry-guided Audio-Vertices Attention" paper.
+![model](model.png)
 
 
 ## Test
